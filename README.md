@@ -13,6 +13,8 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?&logo=youtube&logoColor=white)](https://www.youtube.com/@cantt39t8)
 [![Twiter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/@cantt39t)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black)](https://www.leetcode.com/ilyakajava)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]() 
+
 
 
 ## 👨‍💻 Tech Stack
